@@ -1,3 +1,6 @@
 #ignore states file
 state.txt
+#skiping folder
 untracked
+#ignore env file
+*.env
